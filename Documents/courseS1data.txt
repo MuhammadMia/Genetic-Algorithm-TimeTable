@@ -1,0 +1,46 @@
+[CODE]#[NAME]#[YEAR]#[CREDITS]#[HAS_PRAC_EXEMPTION]
+CHEM181#Chemistry for Engineers 1A#1#8#1
+ENCH1TC#Technical Communication for Engineers#1#8#0
+ENME1DR#Engineering Drawing#1#8#0
+MATH131#Mathematics 1A#1#16#0
+MATH132#Applied Mathematics 1A#1#16#0
+PHYS151#Engineering Physics 1A#1#16#1
+ENEL2CA#Computer Methods 1#2#8#0
+ENEL2EA#Electrical Principles 1#2#16#0
+MATH238#Mathematics 2A#2#16#0
+MATH239#Applied Finite Mathematics#2#8#0
+PHYS251#Optics and Wave Motion#2#8#0
+ENME2MS#Material Strengths#2#8#0
+ENME2TF#Thermofluids#2#8#0
+ENEL2PA#Physical Electronics 1#2#8#0
+ENCH4ML#Engineering Management and Labour Relations#3#8#0
+ENEL3CA#Computer Engineering Design 1#3#8#0
+ENEL3CC#Computer Methods 3#3#8#0
+ENEL3DS#Digital Systems#3#16#0
+ENEL3SS#Systems and Simulation#3#8#0
+ENEL3TA#Analogue Electronics 1#3#8#0
+MATH354#Mathematics 3#3#8#0
+STAT370#Engineering Statistics#3#8#0
+ENEL3EA#Electrical Design 3#3#8#0
+ENEL3MA#Electrical Machines 1#3#8#0
+ENEL3DA#Electronic Design 1#3#8#0
+ENEL4AA#Design and Analysis of Algorithms#4#8#0
+ENEL4CA#Computer Engineering Design 3#4#16#0
+ENEL4CO#Computer Architecture and Organisation#4#8#0
+ENEL4DC#Digital Communications#4#8#0
+ENEL4DT#Data Communications#4#8#0
+ENEL4EE#Engineering Entrepreneurship#4#8#0
+ENEL4OS#Operating Systems for Engineers#4#8#0
+ENEL4CS#Control Systems 2#4#8#0
+ENEL4DS#Digital Signal Processing#4#8#0
+ENEL4SE#Security and Encryption#4#8#0
+ENEL4EA#Electrical Design 5#4#24#0
+ENEL4HA#High Voltage Engineering 1#4#8#0
+ENEL4MA#Electrical Machines 3#4#8#0
+ENEL4PA#Power Electronics 2#4#8#0
+ENEL4WA#Power Systems 2#4#8#0
+ENEL4DA#Electronic Design 3#4#16#0
+ENEL4EC#Analogue Electronics 3#4#8#0
+ENEL4DP#Digital Processes#4#8#0
+ENEL4AC#Acoustics#4#8#0
+ENEL4TA#Selected Topics in Electronic Engineering 1#4#8#0

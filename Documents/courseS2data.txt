@@ -1,0 +1,50 @@
+[CODE]#[NAME]#[YEAR]#[CREDITS]#[HAS_PRAC_EXEMPTION]
+CHEM191#Chemistry for Engineers 1B#1#8#1
+ENEL1ED#Electrical Design 1#1#8#0
+ENME1EM#Introduction to Engineering Materials#1#8#0
+MATH141#Mathematics 1B#1#16#0
+MATH142#Applied Mathematics 1B#1#16#0
+PHYS152#Engineering Physics 1B#1#16#1
+ENEL2CB#Computer Methods 2#2#8#0
+ENEL2DS#Data Structures and Algorithms#2#8#0
+ENEL2EB#Electrical Principles 2#2#16#0
+ENEL2EN#Environmental Engineering#2#8#0
+ENEL2FT#Field Theory#2#8#0
+ENEL2SE#Software Engineering#2#8#0
+MATH248#Mathematics 2B#2#16#0
+ENEL2ED#Electrical Design 2#2#8#0
+ENEL2NP#Nuclear and SemiConductor Physics#2#8#0
+ENEL2PB#Physical Electronics 2#2#8#0
+ENEL3AE#Analogue Electronics 2#3#8#0
+ENEL3CB#Computer Engineering Design 2#3#8#0
+ENEL3CO#Communications#3#16#0
+ENEL3CS#Control Systems 1#3#8#0
+ENEL3DE#Digital Electronics#3#8#0
+ENEL3SF#Software Engineering 2#3#8#0
+MATH349#Discrete Mathematics#3#8#0
+MATH360#Numerical Methods#3#8#0
+ENEL3EB#Electrical Design 3#3#8#0
+ENEL3EM#E-M Theory#3#8#0
+ENEL3MB#Electrical Machines 2#3#8#0
+ENEL3PE#Power Electronics 1#3#8#0
+ENEL3PS#Power Systems 1#3#16#0
+ENEL3DB#Electronic Design 2#3#8#0
+ENEL4CB#Computer Engineering Design Project#4#32#0
+ENEL4EB#Engineering Business#4#8#0
+ENEL4ES#Embedded Systems#4#8#0
+ENEL4IE#Internet Engineering#4#8#0
+ENEL4RC#Real Time Computing#4#8#0
+ENEL4AI#Artificial Intelligence#4#8#0
+ENEL4CC#Distributed Computing Systems#4#8#0
+ENEL4IP#Image Processing#4#8#0
+ENEL4EP#Electrical Design Project#4#32#0
+ENEL4HB#High Voltage Engineering 2#4#8#0
+ENEL4MB#Electrical Machines 4#4#8#0
+ENEL4PB#Power Electronics 3#4#8#0
+ENEL4SS#Power System Stability#4#8#0
+ENEL4WB#Power Systems 3#4#8#0
+ENEL4IL#Illumination#4#8#0
+ENEL4ED#Electronic Design Project#4#32#0
+ENEL4TB#Selected Topics in Electronic Engineering#4#8#0
+ENEL4MS#Microwave Systems#4#8#0
+ENEL4SC#Superconductivity#4#8#0
